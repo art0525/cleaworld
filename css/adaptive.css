@@ -1,0 +1,221 @@
+@media screen and (max-width: 992px){
+    .a-nav a{
+        font-size: 18px;
+        padding-left: 20px;   
+    }
+    .slang h3{
+        font-size: 36px;
+    }
+    .slang-title{
+        font-size: 58px;
+    }
+    .column-ahiev{
+        max-width: 300px;
+        max-height: 350px;
+    }
+    .whiteback{
+        max-width: 180px;
+    }
+    .row-contact{
+        margin-left: 170px;
+    }
+    .row-contact-time{
+        font-size: 16px;
+    }
+    .row-contact-adress{
+        font-size: 16px;
+    }
+    .cleaning h2{
+        font-size: 26px;
+    }
+    .cleaning h3{
+        font-size: 20px;
+    }
+    .cleaning p{
+        font-size: 16px;
+    }
+    .cleaning li{
+        font-size: 16px;
+    }
+    .maps{
+        max-width: 900px;
+        max-height: 350px;
+    }   
+}
+@media screen and (max-width: 768px){
+    .a-nav a{
+        padding-left: 10px;
+        font-size: 16px;
+    }
+    .a-img img{
+        max-width: 24px;
+        max-height: 24px;
+    }
+    .phone{
+        min-height: 14px;
+        min-width: 38px;
+        border-radius: 15px;
+        margin-left: 10px;
+    }
+    .phone a{
+        font-size: 10px;
+    }
+    .slang h3{
+        font-size: 26px;
+    }
+    .slang-title{
+        font-size: 44px;
+    }
+    .maps{
+        max-width: 700px;
+        max-height: 225px;   
+    }
+    .nav-page{
+        margin-left: 70px;
+        max-width: 200px;
+    }
+    .logo{
+        max-width: 80px;
+        max-height: 80px;
+        padding-left: 25px;
+    }
+    .div-about{
+        text-align: center;
+        padding-top: 35px;
+    }
+    .h2-about{
+        font-size: 32px;
+    }
+    .achiev{
+        display: flex;
+        padding-top: 10px;
+        flex-direction: column;
+    }
+    .column-ahiev{
+        align-self: center;
+        padding-top: 10px;
+    }
+    .h2-order{
+        font-size: 32px; 
+    }
+    .form{
+        min-width: 400px;
+        min-height: 45px;
+    }
+    .order-button{
+        min-width: 400px;
+        min-height: 45px; 
+    }
+    .comment{
+        display: flex;
+        flex-direction: column;
+    }
+    .whiteback{
+        align-self: center;
+        margin-bottom: 35px;
+        max-width: 240px;
+    }
+    .services-row{
+        display: flex;
+        flex-direction: column;
+        padding-bottom: 50px;
+    }
+    .row-contact{
+        margin-left: 30px;
+    }
+    .box-services{
+        max-width: 280px;
+        padding-bottom: 50px;
+        align-self: center;
+    }
+    .cleaning h2{
+        font-size: 26px;
+    }
+    .cleaning h3{
+        font-size: 20px;
+    }
+    .cleaning p{
+        font-size: 14px;
+    }
+    .cleaning li{
+        font-size: 14px;
+    }
+    .h2-quentions{
+        font-size: 28px; 
+    }
+    .h3-order{
+        font-size: 18px;
+    }
+    .cleant-row{
+        display: flex;
+        flex-direction: column;
+    }
+    .cleant-column{
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+        text-align: center;
+        max-width: 350px;
+        padding-bottom: 25px;
+    }
+    .footer img{
+        max-width: 14px;
+        max-height: 14px;
+    }
+    .footer span{
+        font-size: 14px;
+    }
+    .footer h3{
+        font-size: 20px;
+    }
+    .footer a{
+        font-size: 14px;
+    }
+    .text-footer{
+        font-size: 14px;
+        font-weight: 700;
+        padding-top: 15px;
+    }    
+}    
+@media screen and (max-width: 576px){
+    .a-nav a{
+        padding-left: 5px;
+        font-size: 12px;
+    }
+    .a-img img{
+        max-width: 20px;
+        max-height: 20px;
+    }
+    .phone{
+        min-height: 14px;
+        min-width: 38px;
+        border-radius: 15px;
+        margin-left: 5px;
+    }
+    .phone a{
+        font-size: 10px;
+    }
+    .slang h3{
+        font-size: 22px;
+    }
+    .row-contact{
+        margin-left: 140px;
+        display: flex;
+        flex-direction: column;
+    }
+    .row-contact-adress{
+        padding-top: 15px;
+    }
+    .slang-title{
+        font-size: 40px;
+    }
+    .logo{
+        max-width: 64px;
+        max-height: 64px;
+        padding-left: 0px;
+    }
+    .maps{
+        max-width: 550px;
+        max-height: 255px;   
+    }
+}
